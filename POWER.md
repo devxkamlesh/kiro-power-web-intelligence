@@ -1779,3 +1779,17 @@ Kiro's internet access is a powerful capability that combines:
 ---
 
 **This power teaches you how to effectively leverage Kiro's full internet access capabilities for maximum productivity.**
+
+
+---
+
+## License and Support
+
+This power is open-source under the MIT License.
+
+- **License:** [MIT License](https://github.com/devxkamlesh/kiro-power-web-intelligence/blob/main/LICENSE)
+- **Repository:** [github.com/devxkamlesh/kiro-power-web-intelligence](https://github.com/devxkamlesh/kiro-power-web-intelligence)
+- **Issues & Support:** [GitHub Issues](https://github.com/devxkamlesh/kiro-power-web-intelligence/issues)
+- **Author:** Kamlesh ([@devxkamlesh](https://linkedin.com/in/devxkamlesh))
+
+**Contributions welcome!** Feel free to submit issues, feature requests, or pull requests.
